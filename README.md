@@ -1,4 +1,4 @@
-# lambdaExpressions
+# Lambda Expressions
 Repositório para praticar conceitos apresentados no curso de Java da Alura.
 
 Aprendi:
